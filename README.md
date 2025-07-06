@@ -1,8 +1,8 @@
-# 🎮 jeu_sudoku
+# jeu_sudoku
 
 Projet Python de résolution et génération de Sudoku.
 
-## 📁 Description
+##  Description
 
 Ce projet contient :
 
@@ -10,10 +10,3 @@ Ce projet contient :
 - Un solveur utilisant une approche algorithmique.
 - Des fonctions pour afficher la grille et vérifier sa validité.
 
-## 🚀 Installation
-
-1. **Cloner le dépôt**
-
-```bash
-git clone <url_de_ton_dépôt>
-cd jeu_sudoku
